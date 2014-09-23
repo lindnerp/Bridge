@@ -9,3 +9,7 @@ H:\Visual Studio 2013\Projects\Bridge\Bridge\bin\Debug\Bridge.xml
 H:\Visual Studio 2013\Projects\Bridge\Bridge\obj\Debug\Bridge.exe
 H:\Visual Studio 2013\Projects\Bridge\Bridge\obj\Debug\Bridge.xml
 H:\Visual Studio 2013\Projects\Bridge\Bridge\obj\Debug\Bridge.pdb
+H:\GitHub\Bridge\Bridge\Bridge\bin\Debug\Bridge.exe.config
+H:\GitHub\Bridge\Bridge\Bridge\obj\Debug\Bridge.exe
+H:\GitHub\Bridge\Bridge\Bridge\obj\Debug\Bridge.xml
+H:\GitHub\Bridge\Bridge\Bridge\obj\Debug\Bridge.pdb
